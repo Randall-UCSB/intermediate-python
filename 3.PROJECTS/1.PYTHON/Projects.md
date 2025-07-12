@@ -22,8 +22,8 @@ Your temporary password is: Eric*1934
 ```
 
 ## Specifications 
--The user’s full name consists of the user’s first name, a space, and the user’s last 
-name. 
--The temporary password consists of the user’s first name, an asterisk (*), and the 
-user’s birth year. 
--Assume the user will enter valid data. 
+- The user’s full name consists of the user’s first name, a space, and the user’s last 
+name.
+- The temporary password consists of the user’s first name, an asterisk (*), and the 
+user’s birth year.
+- Assume the user will enter valid data. 
