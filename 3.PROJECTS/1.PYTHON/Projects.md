@@ -2,6 +2,8 @@
 #### For more projects from the Murach Text, see [Murach Projects](./AllProjects.pdf)
 
 
+# TOPIC 1: First Programs (Murach, Chapter 2)
+
 # Project 2-1: Student Registration 
 Create a program that allows a student to complete a registration form and displays a 
 completion message that includes the user’s full name and a temporary password. 
@@ -27,3 +29,17 @@ name.
 - The temporary password consists of the user’s first name, an asterisk (*), and the 
 user’s birth year.
 - Assume the user will enter valid data. 
+
+
+# TOPIC 2: Control Statements (Murach, Chapter 3)
+
+
+# TOPIC 3: Functions (Murach, Chapter 4)
+
+
+# TOPIC 4: Lists (Murach, Chapter 6)
+
+
+# TOPIC 5: Dictionaries (Murach, Chapter 12)
+
+
