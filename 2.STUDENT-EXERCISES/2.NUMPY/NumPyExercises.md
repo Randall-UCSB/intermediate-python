@@ -1,7 +1,4 @@
-# EXERCISES (FOR THIS CLASS)
-#### NOTES:
-- When the instructions say to use IDLE, you should use the code editor or IDE of your choice.
-- 
+# EXERCISES NUMPY
 
 # EXERCISE 1: Explore the NUMPY NOTE BOOKS
 1. Run the 3 Notebooks demonstrated in the class
