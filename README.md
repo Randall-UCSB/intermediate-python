@@ -1,30 +1,35 @@
 # Intermediate  Python for Data Science
 
-https://github.com/Randall-UCSB/intermediate-python.git
+https://github.com/Randall-UCSB/intermediate-python
 
-echo "# intermediate-python" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Randall-UCSB/intermediate-python.git
-git push -u origin main
+## Tentative Schedule
 
-## Set local variables
+![Schedule](images/schedule.jpg)
+
+
+## Study Tips 
+
+![Study Tips](images/study-tips.jpg)
+
+
+## Structure of the Code
+
+![Code Structure](images/code-structure.jpg)
+
+## Topics
+
+![Topics](images/topics.jpg)
+
+## Mapping of topics to Murach Book Chapters
+
+![Book Chapters](images/book-chapters.jpg)
+
+# APPENDIX:  Guide for setting up Git 
+
+### Clone the Repo
+
 ```
-git config user.name "Randall UCSB"
-git config user.email "rgranier@ucsb.edu"
-
-
-git config --global --list
-# or for local:
-git config --list
-
-
+git clone https://github.com/Randall-UCSB/intermediate-python.git
 ```
 
-## Set remote for multiple repos on same machine
 
-```
-git remote add origin https://randall-UCSB@github.com/Randall-UCSB/intermediate-python.git
-```
