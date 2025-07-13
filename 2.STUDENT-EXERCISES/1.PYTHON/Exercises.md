@@ -1,4 +1,4 @@
-# PROJECTS (FOR THIS CLASS)
+# EXERCISES (FOR THIS CLASS)
 #### NOTES:
 - When the instructions say to use IDLE, you should use the code editor or IDE of your choice.
 - You can do this exercises in Anaconda or on your local PC. 
