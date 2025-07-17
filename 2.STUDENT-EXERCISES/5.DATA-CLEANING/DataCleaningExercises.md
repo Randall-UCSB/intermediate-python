@@ -89,7 +89,7 @@
 4. With figure 5-11 as a guide, convert the JSON file to a dictionary object. Then, build the DataFrame for the shot data, and display the results.
 
 
-## Exercise 6-1: Clean the Polling Data
+# Exercise 6-1: Clean the Polling Data
 
 This exercise will guide you through the process of cleaning the Polling data for the 2016 election for president of the United States. As you clean that data, you’ll use most of the procedures and methods presented in this chapter.
 
@@ -126,7 +126,7 @@ Rename columns 11. Rename each rawpoll_name column to name_pct where name is the
 15. Convert the state and population columns to the category type. 16. Run the info() method one more time to see the new data types. 17. Display the Polls data to see how it looks.
 
 
-## Exercise 6-2: Clean the Cars Data
+# Exercise 6-2: Clean the Cars Data
 
 ##### This exercise will guide you through the process of cleaning data on various makes and models of cars.
 
